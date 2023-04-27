@@ -1,0 +1,8 @@
+path: /content/gdrive/My Drive/sign_lang_updated/
+train: training_data/
+val: training_data/val_data
+
+names:
+  0: A
+  1: B
+  2: C
