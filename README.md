@@ -3,7 +3,7 @@ Building Indian Sign Language Detection Model using YOLOv8
 
 Project Pipeline:
 
-1. Data Collection - Initially, we will capture images of 3 letters(A, B, and C) and build a model. ~100 images for each letter. OpenCV code that will capture 100 images from a 3-sec video.
+1. Data Collection - Initially, we will capture images of 3 letters(A, B, and C) and build a model. ~100 images for each letter. 
 2. Data Processing - Annotating dataset using labelImg.
 3. Training the Model - Train the model using YOLOv8.
 4. Testing - Calculate mAP values.
